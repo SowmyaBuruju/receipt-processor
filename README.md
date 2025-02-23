@@ -152,23 +152,4 @@ Breakdown:
 
 ---
 
-# FAQ
 
-### How will this exercise be evaluated?
-An engineer will review the code you submit. At a minimum they must be able to run the service and the service must provide the expected results. You
-should provide any necessary documentation within the repository. While your solution does not need to be fully production ready, you are being evaluated so
-put your best foot forward.
-
-Part of that evaluation includes running an automated testing suite against your project to confirm it matches the specified API.
-
-### I have questions about the problem statement. What should I do?
-For any requirements not specified via an example, use your best judgment to determine the expected result.
-
-### Can I provide a private repository?
-If at all possible, we prefer a public repository because we do not know which engineer will be evaluating your submission. Providing a public repository
-ensures a speedy review of your submission. If you are still uncomfortable providing a public repository, you can work with your recruiter to provide access to
-the reviewing engineer.
-
-### How long do I have to complete the exercise?
-There is no time limit for the exercise. Out of respect for your time, we designed this exercise with the intent that it should take you a few hours. But, please
-take as much time as you need to complete the work.
